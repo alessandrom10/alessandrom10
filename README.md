@@ -3,8 +3,8 @@
 I'm Alessandro, a master student based in Milano(Italy). Welcome to my GitHub profile!
 
 🔭 **I’m currently working on...**
-- Large Language Models
 - Natural Language Processing
+- Large Language Models
 
 🌱 **I’m currently learning...**
 - Natural Language Processing
