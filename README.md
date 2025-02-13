@@ -8,9 +8,9 @@ I'm Alessandro, a master student based in Milano. Welcome to my GitHub profile!
 - Large Language Models
 
 🌱 **I’m currently learning...**
-- Artificial Neural Networks
-- Deep Learning
-- Computer Security
+- Advanced Deep Learning
+- Online Machine Learning
+- Fintech
 
 <!--⚡ **Fun fact:**
 [Interesting fact about yourself or something related to your interests.] -->
